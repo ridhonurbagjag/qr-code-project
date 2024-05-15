@@ -25,7 +25,7 @@ Mobile Design.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ridhonurbagjag.github.io/qr-code-project/](https://ridhonurbagjag.github.io/qr-code-project/)
 
 ## My process
 
@@ -42,5 +42,5 @@ In the future maybe I will develop this a bit further or use this component for 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ridhonurbagjag)
-- Github - [@yourusername](https://github.com/ridhonurbagjag)
+- Frontend Mentor - [ridhonurbagjag](https://www.frontendmentor.io/profile/ridhonurbagjag)
+- Github - [ridhonurbagjag](https://github.com/ridhonurbagjag)
